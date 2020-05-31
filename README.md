@@ -1,5 +1,5 @@
-
- &nbsp;&nbsp;&nbsp;&nbsp; ![](./img/stanford.jpeg)
+&nbsp;&nbsp;&nbsp;&nbsp; 
+![](./img/stanford.jpeg)
 
 Machine Learning - Stanford University
 =========================================
